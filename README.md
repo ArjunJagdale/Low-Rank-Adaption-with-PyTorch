@@ -67,7 +67,7 @@ By updating only low-rank matrices and freezing most of BERT, we:
 
 ## ⚙️ Try It Yourself
 
-[![Open in Colab](https://colab.research.google.com/drive/1wpDmCpdYWE4sy12AD69ftBsSmAkj7BI6?usp=sharing)  
+[Open in Colab](https://colab.research.google.com/drive/1wpDmCpdYWE4sy12AD69ftBsSmAkj7BI6?usp=sharing)  
 Clone this repo or open the notebook in Colab to reproduce results.
 
 ---
@@ -75,10 +75,6 @@ Clone this repo or open the notebook in Colab to reproduce results.
 ## 📬 Author
 
 **Arjun Jagdale**  
-ML Specialist • Open Source Contributor  
+Machine Learning • AI • Open Source Contributor  
 📍 Pune, India  
-📧 arjunjagdale14@email.com
-
----
-
-Would you like this saved as an actual downloadable `README.md` file right now?
+📧 arjunjagdale.sits.entc@email.com
