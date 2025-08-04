@@ -6,6 +6,13 @@ This project implements **Low-Rank Adaptation (LoRA)** manually in PyTorch, inje
 
 ---
 
+## ⚙️ Try It Yourself
+
+[Open in Colab](https://colab.research.google.com/drive/1wpDmCpdYWE4sy12AD69ftBsSmAkj7BI6?usp=sharing)  
+Clone this repo or open the notebook in Colab to reproduce results.
+
+---
+
 ## 🚀 What This Project Demonstrates
 
 - ✅ Manual implementation of the LoRA mechanism (`A @ B` low-rank updates)
@@ -62,13 +69,6 @@ By updating only low-rank matrices and freezing most of BERT, we:
 - Save compute & memory
 - Reduce overfitting risk
 - Enable deployment in low-resource settings
-
----
-
-## ⚙️ Try It Yourself
-
-[Open in Colab](https://colab.research.google.com/drive/1wpDmCpdYWE4sy12AD69ftBsSmAkj7BI6?usp=sharing)  
-Clone this repo or open the notebook in Colab to reproduce results.
 
 ---
 
